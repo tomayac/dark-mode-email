@@ -79,7 +79,7 @@ Made with HTML and CSS by 🐦 [@tomayac](https://twitter.com/tomayac).
 
 ## Acknowledgements
 
-Hat tip 🎩👈 to [Timothy Hatcher](https://twitter.com/xeenon/status/1153810328808853506) for the
+Thanks to 🐦 [@xeenon](https://twitter.com/xeenon/status/1153810328808853506) for the
 [WWDC session video](https://developer.apple.com/videos/play/wwdc2019/511/) pointer.
 
 ## License
