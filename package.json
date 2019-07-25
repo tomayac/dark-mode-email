@@ -1,0 +1,35 @@
+{
+  "name": "dark-mode-email",
+  "version": "1.0.0",
+  "description": "Send emails that support dark mode.",
+  "main": "index.js",
+  "dependencies": {
+    "dotenv": "^8.0.0",
+    "nodemailer": "^6.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomayac/dark-mode-email.git"
+  },
+  "keywords": [
+    "dark",
+    "mode",
+    "dark",
+    "mode",
+    "email",
+    "prefers-color-scheme",
+    "supported-color",
+    "supported-color-schemes",
+    "email"
+  ],
+  "author": "Thomas Steiner <steiner.thomas@gmail.com> (https://blog.tomayac.com/)",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/tomayac/dark-mode-email/issues"
+  },
+  "homepage": "https://github.com/tomayac/dark-mode-email#readme"
+}

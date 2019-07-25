@@ -1,0 +1,6 @@
+HOST=smtp.example.com
+PORT=465
+USERNAME=mail@example.com
+PASSWORD=passw0rd
+FROM="Jane Doe" <mail@example.com>
+TO=spam@example.com
