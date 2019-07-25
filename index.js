@@ -91,6 +91,6 @@ const main = async () => {
   });
 
   console.log(`Message sent: ${info.messageId}`);
-}
+};
 
 main().catch(console.error);
