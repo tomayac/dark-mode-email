@@ -16,15 +16,13 @@
     "url": "git+https://github.com/tomayac/dark-mode-email.git"
   },
   "keywords": [
-    "dark",
-    "mode",
-    "dark",
-    "mode",
+    "dark mode",
+    "dark theme",    
     "email",
+    "emails"
     "prefers-color-scheme",
     "supported-color",
-    "supported-color-schemes",
-    "email"
+    "supported-color-schemes"
   ],
   "author": "Thomas Steiner <steiner.thomas@gmail.com> (https://blog.tomayac.com/)",
   "license": "Apache-2.0",
