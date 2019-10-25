@@ -1,6 +1,6 @@
 {
   "name": "dark-mode-email",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Send emails that support dark mode.",
   "main": "index.js",
   "dependencies": {
