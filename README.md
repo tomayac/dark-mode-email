@@ -1,5 +1,7 @@
 # 🌒 Dark Mode Email
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/tomayac/dark-mode-email.svg)](https://greenkeeper.io/)
+
 It is possible to send email 📧 that is sensitive to the user's `prefers-color-scheme` (☀️/🌒) setting.
 
 ## Dark Mode Email Template
